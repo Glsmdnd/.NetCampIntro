@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.exe
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.deps.json
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.runtimeconfig.json
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.dll
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\bin\Debug\netcoreapp3.1\DeğerveReferansTipler.pdb
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.dll
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.pdb
+D:\eğitim\c#\CampIntro\DeğerveReferansTipler\obj\Debug\netcoreapp3.1\DeğerveReferansTipler.genruntimeconfig.cache

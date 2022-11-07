@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+D:\eğitim\c#\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+D:\eğitim\c#\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache

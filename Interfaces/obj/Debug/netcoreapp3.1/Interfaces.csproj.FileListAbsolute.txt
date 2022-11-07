@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\eğitim\c#\CampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\eğitim\c#\CampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

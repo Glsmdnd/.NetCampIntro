@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\eğitim\c#\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
+D:\eğitim\c#\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache

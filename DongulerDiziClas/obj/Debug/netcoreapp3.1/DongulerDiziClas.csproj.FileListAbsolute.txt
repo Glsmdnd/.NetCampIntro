@@ -1,0 +1,13 @@
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.exe
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.deps.json
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.runtimeconfig.json
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.dll
+D:\eğitim\c#\CampIntro\DongulerDiziClas\bin\Debug\netcoreapp3.1\DongulerDiziClas.pdb
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.dll
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.pdb
+D:\eğitim\c#\CampIntro\DongulerDiziClas\obj\Debug\netcoreapp3.1\DongulerDiziClas.genruntimeconfig.cache

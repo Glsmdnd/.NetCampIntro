@@ -1,0 +1,10 @@
+D:\eğitim\c#\CampIntro\RecapDemo\bin\Debug\RecapDemo.exe.config
+D:\eğitim\c#\CampIntro\RecapDemo\bin\Debug\RecapDemo.exe
+D:\eğitim\c#\CampIntro\RecapDemo\bin\Debug\RecapDemo.pdb
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.exe
+D:\eğitim\c#\CampIntro\RecapDemo\obj\Debug\RecapDemo.pdb

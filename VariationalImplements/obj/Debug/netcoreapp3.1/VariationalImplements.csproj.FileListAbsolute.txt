@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.exe
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.deps.json
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.runtimeconfig.json
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.dll
+D:\eğitim\c#\CampIntro\VariationalImplements\bin\Debug\netcoreapp3.1\VariationalImplements.pdb
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.dll
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.pdb
+D:\eğitim\c#\CampIntro\VariationalImplements\obj\Debug\netcoreapp3.1\VariationalImplements.genruntimeconfig.cache

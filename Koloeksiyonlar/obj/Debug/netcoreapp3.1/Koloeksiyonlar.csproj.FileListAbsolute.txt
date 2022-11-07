@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.exe
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.deps.json
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.runtimeconfig.json
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.dll
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\bin\Debug\netcoreapp3.1\Koloeksiyonlar.pdb
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.dll
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.pdb
+D:\eğitim\c#\CampIntro\Koloeksiyonlar\obj\Debug\netcoreapp3.1\Koloeksiyonlar.genruntimeconfig.cache

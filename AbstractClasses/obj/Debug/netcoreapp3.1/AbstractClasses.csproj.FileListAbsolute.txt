@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\eğitim\c#\CampIntro\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+D:\eğitim\c#\CampIntro\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

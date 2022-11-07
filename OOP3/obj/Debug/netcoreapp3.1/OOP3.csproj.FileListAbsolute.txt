@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+D:\eğitim\c#\CampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+D:\eğitim\c#\CampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache

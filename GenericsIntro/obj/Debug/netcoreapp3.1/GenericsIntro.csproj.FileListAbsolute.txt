@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\eğitim\c#\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\eğitim\c#\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

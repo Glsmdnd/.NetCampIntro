@@ -1,0 +1,14 @@
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\eğitim\c#\CampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\eğitim\c#\CampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
